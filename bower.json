@@ -1,0 +1,26 @@
+{
+  "name": "visionmedia-debug-bower",
+  "main": "debug.js",
+  "version": "2.1.0",
+  "homepage": "https://github.com/iliu/debug",
+  "authors": [
+    "Isaac Liu <liu.isaac@gmail.com>"
+  ],
+  "description": "bower wrapper around visionmedia/debug",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "debug"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
